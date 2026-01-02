@@ -1,4 +1,3 @@
-...existing code...
 # Peaceful Bubbles Game
 
 Simple Unity bubble-popping game. Spawned bubbles move up; clicking good bubbles increases score, clicking bad bubbles ends the game.
