@@ -1,0 +1,5 @@
+/home/muhammad-basiq-khan/Downloads/Peaceful Bubbles Game/.utmp/Debug/1s414iz4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/muhammad-basiq-khan/Downloads/Peaceful Bubbles Game/.utmp/Debug/1s414iz4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/muhammad-basiq-khan/Downloads/Peaceful Bubbles Game/.utmp/Debug/1s414iz4/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/home/muhammad-basiq-khan/Downloads/Peaceful Bubbles Game/.utmp/Debug/1s414iz4/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/home/muhammad-basiq-khan/Downloads/Peaceful Bubbles Game/.utmp/Debug/1s414iz4/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
